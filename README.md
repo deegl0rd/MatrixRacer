@@ -1,5 +1,6 @@
 # Matrix Racer
 This application is my submission for the homework assignment of the "Basics of Programming 1" subject at BME.
+![A screenshot of the application](MatrixRacer_NHF/mr_screenshot.png)
 
 **Author:** Péter Sasvári  
 
